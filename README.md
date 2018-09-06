@@ -1,0 +1,23 @@
+# jobsheet5
+Latihan 1
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Latihan%201%20(2).png)
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Latihan%201.png)
+Latihan 2
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Latihan%202%20(2).png)
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Latihan%202.png)
+Latihan 3
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Latihan%203%20(2).png)
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Latihan%203.png)
+Latihan 4
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Latihan%204.png)
+Latihan 5
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Latihan%205%20(2).png)
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Latihan%205.png)
+Latihan 6
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Latihan%206%20(2).png)
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Latihan%206%20(3).png)
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Latihan%206.png)
+Pratikum
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Pratikum3%20(2).png)
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Pratikum3%20(3).png)
+[alt text](https://github.com/cahyatri/jobsheet5/blob/master/Modul%205/Pratikum3.png)
